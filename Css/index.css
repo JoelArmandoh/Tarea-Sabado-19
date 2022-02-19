@@ -44,3 +44,19 @@ border-radius: 10px;
 
 .titulo :hover{
     color: aquamarine;}
+
+
+
+    .barra{
+
+        display: flex;
+margin-top: 5px;
+
+    }
+
+
+    .barra div{
+
+        height: 20px;
+width: 50px;
+    }
